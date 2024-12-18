@@ -55,3 +55,5 @@
 - **Back-end**: Render 
 - **Database**: MongoDB Atlas
 - **Media**: Cloudinary
+
+##Live Project Link-https://studynotionfrontend-c25lgpcrt-namit-atreyas-projects.vercel.app/
