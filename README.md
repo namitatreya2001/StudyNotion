@@ -31,7 +31,7 @@
 - **API**: RESTful API with CRUD operations for courses, authentication, and more.
 - **Hosting**: 
   - Front-end: [Vercel](https://vercel.com)
-  - Back-end: [Render](https://render.com) / [Railway](https://railway.app)
+  - Back-end: [Render](https://render.com) 
   - Database: [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
   
 ## API Endpoints
@@ -52,6 +52,6 @@
 
 ## Deployment
 - **Front-end**: Vercel
-- **Back-end**: Render or Railway
+- **Back-end**: Render 
 - **Database**: MongoDB Atlas
 - **Media**: Cloudinary
